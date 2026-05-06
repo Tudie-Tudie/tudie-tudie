@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="tudie_here/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/
+[youtube]: https://www.youtube.com/c/lyric_elle
 [instagram]: https://www.instagram.com/tudie_here/
 [linkedin]: https://linkedin.com/in/latoya-jones-662794177/
 
