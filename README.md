@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/latoya-jones-662794177/?skipRedirect=true/">Latoya Jones</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+ Cybersecurity is more than a career to me — it's a constant puzzle. My projects span vulnerability management,
+ threat detection, and security operations, each one built to solve real problems and sharpen practical skills.
+ Browse through and see what I've been building.
 
 
 ## ⚠️ Vulnerability Management Projects
