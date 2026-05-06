@@ -19,11 +19,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="latoya-jones-662794177/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tudie_here/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+[instagram]: https://www.instagram.com/tudie_here/
 [linkedin]: https://linkedin.com/in/latoya-jones-662794177/
 
 <!--
