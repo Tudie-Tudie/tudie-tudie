@@ -1,8 +1,9 @@
-# <a href="https://www.linkedin.com/in/latoya-jones-662794177/?skipRedirect=true/">Latoya Jones</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/latoya-jones-662794177/?skipRedirect=true/">Latoya Jones</a>'s IT, Cybersecurity and AI Content Creator Project Portfolio 🔐
 
  Cybersecurity keeps me sharp — there's always a new challenge to dig into. My projects cover everything from
- vulnerability management to threat detection, each one a deep dive into strengthening real security operations. Feel
- free to explore and see what I've been working on.
+ vulnerability management to threat detection, each one a deep dive into strengthening real security operations.
+ Alongside security, I also create AI-driven content that explores the intersection of technology, tools, and the
+ future of the field. Feel free to explore and see what I've been working on.
 
 
 
@@ -14,6 +15,12 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+ ## 🤖 Generative AI
+
+  - **[]()**
+  - **[]()**
+  - **[]()**
 
 <hr/>
 
