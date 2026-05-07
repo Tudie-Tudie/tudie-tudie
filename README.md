@@ -2,6 +2,8 @@
 
  Cybersecurity keeps me sharp — there's always a new challenge to dig into. My projects cover everything from
  vulnerability management to threat detection, each one a deep dive into strengthening real security operations.
+
+ 
  Alongside security, I also create AI-driven content that explores the intersection of technology, tools, and the
  future of the field. Feel free to explore and see what I've been working on.
 
