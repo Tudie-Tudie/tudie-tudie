@@ -23,7 +23,6 @@
   - **[YOUTUBE](http://www.youtube.com/@LyricElle-Vibing)**
   - **[INSTAGRAM](youtube.com/@lyricelle-vibing)**
   - **[TIK-TOK](www.tiktok.com/@lyricelle_entertainment)**
-  - **[LINKED-IN](https://www.linkedin.com/in/latoya-t-jones/)**
 
 
 <hr/>
