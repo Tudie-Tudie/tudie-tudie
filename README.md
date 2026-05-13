@@ -22,7 +22,7 @@
 
   - **[YOUTUBE](http://www.youtube.com/@LyricElle-Vibing)**
   - **[INSTAGRAM](youtube.com/@lyricelle-vibing)**
-  - **[]()**
+  - **[TIK-TOK](www.tiktok.com/@lyricelle_entertainment)**
 
 <hr/>
 
