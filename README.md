@@ -20,7 +20,7 @@
 
  ## 🤖 Generative AI
 
-  - **[]()**
+  - **[YOUTUBE](http://www.youtube.com/@LyricElle-Vibing)**
   - **[]()**
   - **[]()**
 
