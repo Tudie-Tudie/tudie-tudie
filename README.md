@@ -11,6 +11,9 @@
 
 ## ⚠️ Vulnerability Management Projects
 
+⏳ Pending
+
+
 <!--- **[Vulnerability Management Program Implementation](https://github.com/Tudie-Tudie/vulnerability-management)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
