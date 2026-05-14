@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/latoya-jones-662794177/?skipRedirect=true/">Latoya Jones</a>'s IT, Cybersecurity and AI Content Creator Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/latoya-jones-662794177/?skipRedirect=true/">Latoya Jones</a>'s IT, Cybersecurity and AI Content Creator Project Portfolio
 
  Cybersecurity keeps me sharp — there's always a new challenge to dig into. My projects cover everything from
  vulnerability management to threat detection, each one a deep dive into strengthening real security operations.
