@@ -34,7 +34,7 @@
 
 ##  Websites
  
-- **[Catering](https://sweetvcatering.com)**
+- **[Catering](www.sweetvcatering.com)**
 
 <hr/>
 
