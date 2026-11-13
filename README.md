@@ -30,7 +30,7 @@
 
   - **[YOUTUBE](http://www.youtube.com/@LyricElle-Vibing)**
   - **[INSTAGRAM](https://www.instagram.com/lyric_elle_entertainment/)**
-  - **[TIK-TOK](www.tiktok.com/@lyricelle_entertainment)**
+  - **[TIK-TOK](https://www.tiktok.com/@lyricelle_entertainment?lang=en)**
 
 ##  Websites
  
